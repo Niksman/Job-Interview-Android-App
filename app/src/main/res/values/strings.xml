@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Job Interview</string>
+    <string name="convert_characters">CONVERT CHARACTERS</string>
+    <string name="refresh_button">refresh_button</string>
+    <string name="none">""</string>
+    <string name="enter_characters">Enter characters..</string>
+    <string name="output">Output</string>
+    <string name="unwanted_characters"><![CDATA[[.,<>=_!~;:\'?/|]]]></string>
+</resources>
