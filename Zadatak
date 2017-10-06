@@ -1,0 +1,3 @@
+Zadatak Aplikacije je da sadrzi jedno EditText polje, jedno output polje za prikaz izlaznog texta, dugme za konvertovanje i dugme za refresh.
+Rec koju korisnik unese u EditText polje, pritiskom na dugme za konvertovanje, razdvaja se po slovima, i svako sledece slovo je u izlazu ispisano +1 put vise, sve odvojeno zarezom.
+Npr. ulazna rec: slovo , izlaz: s,l,l,o,o,o,v,v,v,v,o,o,o,o,o
